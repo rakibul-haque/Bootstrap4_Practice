@@ -1,0 +1,159 @@
+/*font-family: 'PT Sans', sans-serif;*/
+/*header start*/
+header {
+	background-color: #fcdb00;
+}
+.cus-nav1 {
+	padding-top: 40px;
+}
+.cus-nav2 li a {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+	padding-left: 83px !important;
+	transition: .5s;
+}
+.cus-nav2 li a:hover {
+	color: white !important;
+}
+/*header end*/
+/*banner start*/
+.banner {
+	background-color: #fcdb00;
+}
+.cus-indi li {
+	width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+.carou-text {
+	margin-top: 130px;
+	font-family: 'PT Sans', sans-serif;
+}
+.carou-text h1 {
+	font-size: 32px;
+	font-weight: 700;
+
+}
+.carou-text h4 {
+	font-size: 20px;
+	font-weight: 400;
+
+}
+.carou-text p {
+	font-size: 16px;
+	font-weight: 400;
+
+}
+.carou-text li {
+	margin-top: 10px;
+}
+.cus-i1 {
+	font-size: 42px;
+	color: #010101;
+}
+.cus-i1:hover {
+	color: #212118;
+}
+.carou-image {
+	margin-top: 50px;
+	margin-bottom: 95px;
+	margin-left: 215px;
+}
+/*banner end*/
+/*feature start*/
+.feature{
+	margin-top: 110px;
+	margin-bottom: 110px;
+}
+.random-title1 {
+	font-family: 'PT Sans', sans-serif;
+}
+.random-title1 h3 {
+	font-size: 32px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+.random-title1 p {
+	font-size: 20px;
+}
+.ico1 {
+	font-size: 50px;
+}
+.con1 h1{
+	font-size: 22px;
+	/*font-weight: 700;*/
+}
+.con1 p{
+	font-size: 16px;
+	color: #898989;
+}
+/*feature end*/
+/*social start*/
+.social {
+	background-color: #010101;
+
+}
+.random-title2 h1 {
+	margin-top: 70px;
+	font-size: 32px;
+	color: #fcdb00;
+}
+.random-title2 p {
+	font-size: 20px;
+	color: #898989;
+
+}
+.cus-inp {
+	padding: 20px 15px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+}
+.cus-btn1 {
+	background-color: #fcdb00;
+	border: none;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 9px 5px;
+	transition: .5s;
+}
+.cus-btn1:hover {
+	color: white;
+	background-color: black;
+	border: 1px solid #fcdb00;
+}
+.ico2 ul li a {
+	color: #fcdb00;
+	font-size: 42px;
+}
+.ico2 ul li a:hover {
+	color: white;
+}
+/*social end*/
+/*footer start*/
+footer {
+	background-color: #010101;
+}
+.ftr-content {
+	margin-top: 110px;
+	margin-bottom: 100px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+
+}
+.ftr-content ul li {
+	color: #ffffff;
+}
+.ftr-content ul li a {
+	color: #ffffff;
+
+}
+.ftr-content ul li a:hover {
+	color: #fcdb00;
+	text-decoration: none;
+} 
+/*footer end*/
