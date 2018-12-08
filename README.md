@@ -2,4 +2,4 @@
 Take it as a practice of Bootstrap4
 
 
-https://rahatsikz.github.io/psd-tiny-bs4/
+https://github.com/rakibul-haque/Bootstrap4_practice.git
